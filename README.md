@@ -1,6 +1,6 @@
 # ransomwatch
 
-> Anti-ransomware endpoint solution written with Nodejs, Vuejs, and Electronjs
+> This app watches for and takes mitigative actions against Ransomware encryption
 
 #### Build Setup
 ``` bash
